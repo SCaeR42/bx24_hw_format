@@ -32,10 +32,9 @@ cd bx_razr
 Чтобы получилась следующая структура:
 
 ```
-/bx_razr/
-├── students_dz/
-│   ├── homework-1/
-│   └── homework-2/
-│   └── homework-3/
+/homeworks/
+├── homework-1/
+├── homework-2/
+├── homework-3/
 ...
 ```
