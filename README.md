@@ -20,21 +20,21 @@
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/SCaeR42/bx24_hw_format.git
-cd bx_razr
+cd homeworks
+git clone https://github.com/SCaeR42/bx24_hw_format.git .
 ```
 или [Скачать архив с репозиторием](https://github.com/SCaeR42/bx24_hw_format/archive/refs/heads/master.zip)
 
-## 2. Разместить на хостинге
+### 2. Разместить на хостинге
 
-Распоковать скаченый архив в директорию `bx_razr`.
+Распаковать скаченный архив в директорию `homeworks`.
 
 Чтобы получилась следующая структура:
 
 ```
 /homeworks/
-├── homework-1/
-├── homework-2/
-├── homework-3/
+├── homework1/
+├── homework2/
+├── homework3/
 ...
 ```
